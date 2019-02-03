@@ -4,6 +4,7 @@
 **TECHNOLOGY STACK** 
 - Python, C++, Octave/Mathlab, OpenCV, LabView, RTMaps, git
 - Machine/Deep Learning: scikit-learn, TensorFlow, Keras, Pandas
+- APIs: Flask
 - Containers: Docker, Kubernetes (orchestration), Argo, Helm
 - Cloud computing: Microservices, IBM, GCP, AWS, Grafana 
 - Finite Element simulation: Comsol
@@ -31,9 +32,9 @@ Vicomtech (April 2018 – Present)
 
 *Personal duties and achievements:*
 - Computer Vision for ADAS and 4.0. industry: 
-  -  Tailoring and integration in a autonomous car of a vulnerable road user detector based on. Convolutional Neural Networks.
-  -  DEveloping from scratch of an event detector for industrial enviroment based on computer vision, machine learning and deep learning
-- Cloud computing & Scalability (kubernetes): Deployment of an ad-hoc architecture based on orchestration with Kubernetes in AWS and IBM cloud of containerized computer vision analytics, as a solution for providing scalability to an annotation platform in the ADAS context.
+  -  Tailoring and integration in an autonomous car a vulnerable road user detector based on **Deep Convolutional Neural Networks**.
+  -  Developing from scratch of an event detector for industrial enviroment based on **computer vision, machine learning and deep learning**.
+- Cloud computing & Scalability (kubernetes): Deployment of an ad-hoc architecture based on orchestration with **Kubernetes in AWS and IBM cloud** of **containerized computer vision analytics**, as a solution for providing scalability to an annotation platform in the ADAS context.
 
 ### Senior Research And Development Engineer
 Museo Nacional del Prado (May 2017 – January 2018)
@@ -51,18 +52,6 @@ Universidad Carlos III de Madrid (May 2009 – May 2017)
 - Senior positions in 7 research and industrial projects.
 - Development and implementation of novel solutions based on **computer vision**, **image processing** and **machine learning**
 - Imaging Systems Design, Non-Destructive Testing, Spectral Analysis,
-- Management of successful application to competitive calls for **national and european (H2020) funding**, or **private financing** with companies.
-- Technology transfer (i.e. Airbus, Sener,healthcare, environment, renewable energy, ADAS, transport, space)
+- Management of successful application to competitive calls for national and european (H2020) funding, or private financing with companies.
+- **Technology transfer** (i.e. Airbus, Sener,healthcare, environment, renewable energy, ADAS, transport, space)
 - Development of my PhD thesis entitled: "Infrared imaging system for in-situ characterization of fire behavior of composite materials".
-
-
-
-
-
-
-### PROJECTS
-
-
-
-
-
